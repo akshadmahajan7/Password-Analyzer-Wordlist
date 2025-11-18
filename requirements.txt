@@ -1,0 +1,10 @@
+# Password Strength Analyzer and Custom Wordlist Generator Requirements
+# For Password Strength Analysis (Core Requirement)
+zxcvbn
+# For Natural Language Processing (Part of Wordlist Generation)
+nltk
+# For creating the Graphical User Interface (GUI)
+# Using CustomTkinter for a dynamic and attractive interface
+customtkinter
+# To handle command-line arguments (for a non-GUI version or setup)
+argparse
